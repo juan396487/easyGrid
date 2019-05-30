@@ -2,4 +2,4 @@
 A lightweight library that makes use of CSS3 flexbox to easily create responsive grids from any API endpoint that responds with JSON data.  
 
 # Demo
-https://juan396487.github.io/easyGrid
+https://juan396487.github.io/easyGrid/
